@@ -7,6 +7,8 @@ There will be updates to this package to change password and delete password.
 
 ## How to youse package ?
 
+[npmjs](https://www.npmjs.com/package/authme-password-check)
+
 First import package
 
 ```
