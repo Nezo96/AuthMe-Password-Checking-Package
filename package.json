@@ -1,6 +1,6 @@
 {
   "name": "authme-password-check",
-  "version": "1.0.5",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -8,7 +8,11 @@
     "authme"
   ],
   "author": "Nezo96",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nezo96/AuthMe-Password-Checking-Package"
+  },
+  "license": "MIT",
   "dependencies": {
     "salted-sha256": "^1.0.4"
   }
